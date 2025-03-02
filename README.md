@@ -25,6 +25,19 @@ Warming up Session은 핸즈온 머신러닝(3판) 교재를 통해 단기간 �
 - ❌미제출: 제출 기한 후 `1시간`초과
 
 # 멤버별 제출 현황
+<details>
+<summary>제출 상태 체크</summary>
+<div markdown="1">
+
+- 제출 완료: ✅
+
+- 지각 제출: ⏰
+
+- 미제출: ❌
+
+</div>
+</details>
+
 |week / 이름|week 1|week 2|week 3|week 4|
 |-------|-----|-----|-----|-----|
 |구혜준| | | | |
