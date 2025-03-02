@@ -12,6 +12,13 @@ Warming up Session은 핸즈온 머신러닝 교재를 통해 단기간 머신�
 
 
 ## 코드 제출 방식
+<details>
+  <summary>제출 대상: 매주 주어지는 연습 문제</summary>
+  <div markdown="1">
+    ![Image](https://github.com/user-attachments/assets/71d97581-46f8-4d6f-a3b8-fe1f97f0ad88)
+  </div>
+</details>
+
 - 제출 대상: 매주 주어지는 연습 문제
   
 ![Image](https://github.com/user-attachments/assets/71d97581-46f8-4d6f-a3b8-fe1f97f0ad88)
