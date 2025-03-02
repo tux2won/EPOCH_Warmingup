@@ -14,9 +14,10 @@ Warming up Session은 핸즈온 머신러닝 교재를 통해 단기간 머신�
 ## 코드 제출 방식
 - 제출 대상: 매주 주어지는 연습 문제
 
-  - ![Image](https://github.com/user-attachments/assets/71d97581-46f8-4d6f-a3b8-fe1f97f0ad88)
+  ![Image](https://github.com/user-attachments/assets/71d97581-46f8-4d6f-a3b8-fe1f97f0ad88)
 
 - 제출 경로: `EPOCH_Warmingup/Week N [챕터]/이름_problem.ipynb`
+  - 이름은 자유롭게!
 
 ## 제출 기한
 모임 당일 정오 `11:23:59`까지
