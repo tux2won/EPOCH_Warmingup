@@ -8,7 +8,7 @@ Warming up Session은 핸즈온 머신러닝 교재를 통해 단기간 머신�
 
 본 스터디의 Notion Page는 아래 링크를 통해 제공하고 있습니다.
 
-- [🔗Notion 링크] (https://www.notion.so/Warming-Up-Session-1a90de90854f80339115eb60b8975393?pvs=4)
+- 🔗 [Notion 링크] (https://www.notion.so/Warming-Up-Session-1a90de90854f80339115eb60b8975393?pvs=4)
 
 
 ## 코드 제출 방식
