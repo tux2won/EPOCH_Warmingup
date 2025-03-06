@@ -46,7 +46,18 @@ Warming up Session은 핸즈온 머신러닝(3판) 교재를 통해 단기간 �
 |정재희|❌| | | |
 |한우림|✅| | | |
 
-출석 체크
+<details>
+<summary>출석 체크</summary>
+<div markdown="1">
+
+- 출석: ✅
+
+- 지각: ⏰
+
+- 결석: ❌
+
+</div>
+</details>
 |week / 이름|week 1|week 2|week 3|week 4|
 |-------|-----|-----|-----|-----|
 |송채원|✅| | | |
