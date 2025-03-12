@@ -18,6 +18,7 @@ Warming up Session은 핸즈온 머신러닝(3판) 교재를 통해 단기간 �
 
 - 제출 경로: `EPOCH_Warmingup/Week N [챕터]/이름_problem 번호.ipynb`
   - 이름은 자유롭게!
+  - 문제가 2개일 경우 `이름_problem 번호1&번호2.ipynb`
 
 ## 제출 기한
 모임 당일 정오 `11:59:59`까지
